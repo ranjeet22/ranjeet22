@@ -9,7 +9,8 @@ ___
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="https://streak-stats.demolab.com?user=ranjeet22&theme=sakura-x" />
-  <img src="robot.gif" width="150"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=ranjeet22&rank_icon=github&custom_title=My%20GitHub%20Stats&include_all_commits=true&theme=material-palenight" />
+  <!-- <img src="robot.gif" width="150"/> -->
 </div>
 
 
