@@ -12,9 +12,9 @@ ___
   <img src="robot.gif" width="150"/>
 </div>
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://github-stats-extended.vercel.app/api?username=ranjeet22&rank_icon=github&custom_title=My%20GitHub%20Stats&include_all_commits=true&theme=material-palenight" />
-  <img src="koi/koi.gif" width="256" alt="My GitHub Koi" />
+  <!-- <img src="koi/koi.gif" width="256" alt="My GitHub Koi" /> -->
 </div>
 
 
