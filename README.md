@@ -22,3 +22,7 @@ ___
 [![](https://visitcount.itsvg.in/api?id=ranjeet22&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My GitHub Koi" />
+</p>
