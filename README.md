@@ -9,7 +9,7 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dat)" srcset="https://www.gitskins.com/api/section/story-timeline?username=ranjeet22&mode=light" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/story-timeline?username=ranjeet22&mode=light" />
   <img src="https://www.gitskins.com/api/section/story-timeline?username=ranjeet22&mode=dark" width="100%" alt="Contributions week by week, with my longest streak" />
 </picture>
 
