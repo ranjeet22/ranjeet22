@@ -1,24 +1,23 @@
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/solar-orbits?username=ranjeet22&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F68098838%3Fu%3D80008dd034609f3b0b8c79b4f3267cc6f7e3a8f5%26v%3D4&mode=light" />
-  <img src="https://www.gitskins.com/api/section/solar-orbits?username=ranjeet22&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F68098838%3Fu%3D80008dd034609f3b0b8c79b4f3267cc6f7e3a8f5%26v%3D4&mode=dark&v=2026-11-11&pv=UewWwWgSNM7DFstT" width="100%" alt="My languages as planets around me" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ranjeet22/ranjeet22/blob/main/assets/solar-orbits-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ranjeet22/ranjeet22/blob/main/assets/solar-orbits-light.svg">
+  <img alt="Solar Orbit" width="100%" src="https://github.com/ranjeet22/ranjeet22/blob/main/assets/solar-orbits-dark.svg">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-hud?username=ranjeet22&mode=light" />
-  <img src="https://www.gitskins.com/api/section/pixel-hud?username=ranjeet22&mode=dark&v=2026-11-11&pv=UewWwWgSNM7DFstT" width="100%" alt="Commits, pull requests, stars and best streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ranjeet22/ranjeet22/blob/main/assets/story-timeline-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ranjeet22/ranjeet22/blob/main/assets/story-timeline-light.svg">
+  <img alt="Story Timeline" width="100%" src="https://github.com/ranjeet22/ranjeet22/blob/main/assets/story-timeline-dark.svg">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/story-timeline?username=ranjeet22&mode=light" />
-  <img src="https://www.gitskins.com/api/section/story-timeline?username=ranjeet22&mode=dark&v=2026-11-11&pv=UewWwWgSNM7DFstT" width="100%" alt="Contributions week by week, with my longest streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ranjeet22/ranjeet22/blob/main/assets/story-rhythm-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ranjeet22/ranjeet22/blob/main/assets/story-rhythm-light.svg">
+  <img alt="Story Rhythm" width="100%" src="https://github.com/ranjeet22/ranjeet22/blob/main/assets/story-rhythm-dark.svg">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/story-rhythm?username=ranjeet22&mode=light" />
-  <img src="https://www.gitskins.com/api/section/story-rhythm?username=ranjeet22&mode=dark&v=2026-11-11&pv=UewWwWgSNM7DFstT" width="100%" alt="Contributions by weekday" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/story-bubbles?username=ranjeet22&mode=light" />
-  <img src="https://www.gitskins.com/api/section/story-bubbles?username=ranjeet22&mode=dark&v=2026-11-11&pv=UewWwWgSNM7DFstT" width="100%" alt="Languages: Jupyter Notebook, Python, TypeScript, CSS, JavaScript, C++" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ranjeet22/ranjeet22/blob/main/assets/story-bubbles-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ranjeet22/ranjeet22/blob/main/assets/story-bubbles-light.svg">
+  <img alt="Story Bubbles" width="100%" src="https://github.com/ranjeet22/ranjeet22/blob/main/assets/story-bubbles-dark.svg">
 </picture>
